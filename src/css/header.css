@@ -1,0 +1,40 @@
+.header {
+    background: #ffffff;
+    height: 80px;
+}
+
+/* LOGO STYLES */
+
+.header-logo {
+    font-size: 32px;
+    margin: 0;
+    line-height: 80px;
+}
+
+/* MENU STYLES */
+
+.header-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.header-menu-link {
+    display: inline-block;
+    padding: 13px 5px;
+    color: #000000;
+    text-decoration: none;
+    border-top: 2px solid #ffffff;
+    transition: border 500ms;
+}
+
+.header-menu-link:hover {
+    border-top: 2px solid #000000;
+}
+
+/* LANG STYLES */
+
+.header-lang a {
+    color: black;
+    text-decoration: none;
+    margin-left: 2px;
+}
