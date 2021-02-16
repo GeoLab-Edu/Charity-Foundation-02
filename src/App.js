@@ -1,12 +1,19 @@
 import Header from "./Heaader";
 import './App.css';
+import {
+    BrowserRouter as Router,
+} from "react-router-dom";
 
-function App() {
+import { withNamespaces } from 'react-i18next';
+import MainRouter from "./components/MainRouter";
+
+function App({ t }) {
   return (
-    <>
-      <Header />
-    </>
+      <Router>
+          <Header />
+          <MainRouter />
+      </Router>
   );
 }
 
-export default App;
+export default withNamespaces()(App);

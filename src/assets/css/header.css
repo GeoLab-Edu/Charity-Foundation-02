@@ -1,0 +1,115 @@
+.header {
+    background: #ffffff;
+    height: 80px;
+}
+
+/* LOGO STYLES */
+
+.header .logo {
+    width: 40%;
+}
+
+
+.header-logo {
+    display: flex;
+    height: 80px;
+    align-items: center;
+}
+
+/* MENU STYLES */
+
+.header-menu {
+    list-style: none;
+    padding: 0;
+}
+
+.header-menu-link {
+    display: inline-block;
+    padding: 13px 5px;
+    color: #000000;
+    text-decoration: none;
+    border-top: 2px solid #ffffff;
+    transition: border 500ms;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.header-menu-link:hover {
+    border-top: 2px solid #000000;
+}
+
+/* LANG STYLES */
+
+.header-lang button {
+    color: black;
+    text-decoration: none;
+    margin: 2px;
+    border: 0;
+    background: transparent;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Burger STYLES */
+.burger {
+    display: none;
+    width: 35px;
+    height: 22px;
+    position: relative;
+    background: #ffffff;
+    border: 0;
+    cursor: pointer;
+}
+.burger span {
+    --translate: -50%;
+    display: block;
+    width: 100%;
+    height: 3px;
+    border-radius: 3px;
+    background: crimson;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(var(--translate));
+    transition: 300ms;
+}
+.burger span:first-child {
+    top: 0;
+    --translate: 0;
+}
+.burger span:last-child {
+    top: auto;
+    bottom: 0;
+    --translate: 0;
+}
+
+.burger.active span:nth-child(2) {display: none}
+.burger.active span{top: 50%; transform: translateY(-50%) rotate(45deg); transform-origin: center; transition: 500ms}
+.burger.active span:last-child {transform: translateY(-50%) rotate(-45deg);}
+
+/* MEDIA STYLES */
+@media screen and (max-width: 768px) {
+    .mobile-nav {
+        width: calc(100% - 65px) !important;
+        display: block !important;
+        position: fixed;
+        top: 80px;
+        left: -100%;
+        padding: 20px;
+        background: rgba(255,255,255,.95);
+        transition: 300ms;
+    }
+    .mobile-nav.active {left: 0}
+    .header-menu {
+        display: block !important;
+    }
+    .header-menu-link {
+        width: 100%;
+    }
+    .header-lang {
+        margin-top: 20px;
+        text-align: right;
+    }
+    .burger {display: block }
+}
+
