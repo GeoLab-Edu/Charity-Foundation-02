@@ -1,0 +1,25 @@
+/* COVER */
+.main-cover {
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.main-cover-title {
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    width: 680px;
+}
+
+/* MEDIA */
+@media screen and (max-width: 992px) {
+    .main-cover-title {
+        top: 15px;
+        width: 100%;
+        font-size: 25px;
+    }
+}

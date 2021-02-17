@@ -98,6 +98,7 @@
         padding: 20px;
         background: rgba(255,255,255,.95);
         transition: 300ms;
+        z-index: 9999;
     }
     .mobile-nav.active {left: 0}
     .header-menu {

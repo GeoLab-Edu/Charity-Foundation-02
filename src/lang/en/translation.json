@@ -6,10 +6,17 @@
     "projects": "Projects",
     "contact": "Contact"
   },
+  "readMore": "Learn more",
   "footer": {
     "email": "namesurname@gmail.com",
     "phone": "0322674839",
     "address": "Street name",
     "social": "Social media"
+  },
+  "main": {
+    "coverTitle": "Alexi And Vakhtang Matchavariani Charity Foundation",
+    "missionTitle": "Our Mission",
+    "missionContent1": "Support of young  Composers and performers of exceptional talent.\nEstablishment of the International Composers Competition of Alexi Matchavariani. \n\n Popularisation of Georgian Music in Georgia and Abroad.\nOrganisation of professional musical events and their support.\nEstablishment of the International Youth Symphony Orchestra.\n",
+    "missionContent2": "Establishment of the musical Festival.\nRestoration of damaged  musical Scores of Georgian Composers.\nRestoration of Audio & Video samples of old Georgian musical \nmasterpieces.\nRevival of forgotten Georgian musical masterpieces.\nPresentation of unknown musical masterpieces in Georgia.\nConnection of Georgian and foreign young musicians via Music.\n"
   }
 }
