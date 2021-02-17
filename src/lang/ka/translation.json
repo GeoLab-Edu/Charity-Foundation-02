@@ -5,5 +5,11 @@
     "found": "ფონდი",
     "projects": "პროექტები",
     "contact": "კონტაქტი"
+  },
+  "footer": {
+    "email": "namesurname@gmail.com",
+    "phone": "0322674839",
+    "address": "ქუჩის სახელი",
+    "social": "სოციალური მედია"
   }
 }

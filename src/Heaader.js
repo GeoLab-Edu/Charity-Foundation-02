@@ -1,5 +1,5 @@
 import './assets/css/header.css';
-import logo from './assets/images/logo.png'
+import logo from './assets/images/logo.png';
 import {
     Link
 } from "react-router-dom";
@@ -8,7 +8,7 @@ import { withNamespaces } from 'react-i18next';
 import { useState } from "react";
 
 function Header({ t }) {
-    const [isActive, setActive] = useState("false");
+    const [isActive, setActive] = useState();
     const burger = document.getElementById('burger');
     const menu = document.getElementById('menu');
     const changeLanguage = (lng) => {

@@ -6,12 +6,14 @@ import {
 
 import { withNamespaces } from 'react-i18next';
 import MainRouter from "./components/MainRouter";
+import Footer from "./Footer";
 
 function App({ t }) {
   return (
       <Router>
           <Header />
           <MainRouter />
+          <Footer />
       </Router>
   );
 }

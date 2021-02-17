@@ -5,7 +5,7 @@ function Profile({ t }) {
     let { id } = useParams();
     return (
         <>
-            <h1>Profile Works!!! {id} </h1>
+            <h1> {id} </h1>
         </>
     )
 }

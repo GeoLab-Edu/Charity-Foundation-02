@@ -4,6 +4,14 @@ body {background: darkgrey}
 
 button:focus {outline: 0}
 
+/* TODO DELETE */
+
+#root {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
 /* flex */
 
 .flex {display: flex;}

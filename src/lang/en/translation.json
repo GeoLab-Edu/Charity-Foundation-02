@@ -5,5 +5,11 @@
     "found": "Foundation",
     "projects": "Projects",
     "contact": "Contact"
+  },
+  "footer": {
+    "email": "namesurname@gmail.com",
+    "phone": "0322674839",
+    "address": "Street name",
+    "social": "Social media"
   }
 }

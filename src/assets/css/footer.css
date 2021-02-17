@@ -1,0 +1,45 @@
+.footer {
+    background: linear-gradient(90deg, #000000 60%, #333333 60%);
+    margin-top: auto;
+}
+.footer-item {
+    height: 200px;
+    width: 25%;
+    flex-shrink: 0;
+    padding: 25px;
+    background: #000000;
+    text-align: center;
+    color: darkgrey;
+    transition: 300ms;
+    border-right: 1px solid #333333;
+}
+.footer-item:hover {
+    background: #1a1a1a;
+}
+
+.footer-item.social {
+    background: #333333;
+}
+
+.footer-item-image img{margin: 0 10px; opacity: .9}
+
+.footer-item-title {
+    margin-top: 40px;
+}
+
+@media screen and (max-width: 992px) {
+    .footer {background: #000000}
+    .footer .container {padding: 0}
+    .footer-content {
+        flex-direction: column-reverse;
+    }
+    .footer-item {
+        width: 100%;
+        height: auto;
+        border-right: 0;
+        border-bottom: 1px solid #333333;
+    }
+    .footer-item-title {
+        margin-top: 15px;
+    }
+}
