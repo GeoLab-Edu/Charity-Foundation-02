@@ -4,7 +4,14 @@
     "vaxtang": "Vakhtang",
     "found": "Foundation",
     "projects": "Projects",
-    "contact": "Contact"
+    "contact": "Contact",
+    "bio": "Biography",
+    "photos": "Photos",
+    "manuscripts": "Manuscripts",
+    "press": "Presse",
+    "media": "Audio & Video Samples",
+    "about": "About Us",
+    "team": "Team"
   },
   "readMore": "Learn more",
   "footer": {
@@ -17,6 +24,8 @@
     "coverTitle": "Alexi And Vakhtang Matchavariani Charity Foundation",
     "missionTitle": "Our Mission",
     "missionContent1": "Support of young  Composers and performers of exceptional talent.\nEstablishment of the International Composers Competition of Alexi Matchavariani. \n\n Popularisation of Georgian Music in Georgia and Abroad.\nOrganisation of professional musical events and their support.\nEstablishment of the International Youth Symphony Orchestra.\n",
-    "missionContent2": "Establishment of the musical Festival.\nRestoration of damaged  musical Scores of Georgian Composers.\nRestoration of Audio & Video samples of old Georgian musical \nmasterpieces.\nRevival of forgotten Georgian musical masterpieces.\nPresentation of unknown musical masterpieces in Georgia.\nConnection of Georgian and foreign young musicians via Music.\n"
+    "missionContent2": "Establishment of the musical Festival.\nRestoration of damaged  musical Scores of Georgian Composers.\nRestoration of Audio & Video samples of old Georgian musical \nmasterpieces.\nRevival of forgotten Georgian musical masterpieces.\nPresentation of unknown musical masterpieces in Georgia.\nConnection of Georgian and foreign young musicians via Music.\n",
+    "projects": "Projects",
+    "projectsContent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
   }
 }

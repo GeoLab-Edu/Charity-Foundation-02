@@ -16,10 +16,17 @@ button:focus {outline: 0}
 
 .flex {display: flex;}
 .justify-between {justify-content: space-between}
+.justify-around {justify-content: space-around}
 .align-center {align-items: center}
 
 /* size */
 .w-100 {width: 100%}
+
+/*Typo*/
+.underline {
+    text-decoration: underline;
+}
+
 /* .container */
 .container {
     max-width: 1050px;

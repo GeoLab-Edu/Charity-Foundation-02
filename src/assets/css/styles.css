@@ -30,6 +30,7 @@
     position: relative;
     color: #000000;
     margin: 25px 0;
+    transition: 300ms;
 }
 .readmore:before {
     content: '';
@@ -41,7 +42,17 @@
     top: 50%;
     left: -960px;
     margin-top: 3px;
+    transition: 300ms;
 }
+
+.readmore:hover {
+    padding-left: 50px;
+}
+
+.readmore:hover:before {
+    left: -910px;
+}
+
 .readmore:after {
     content: '';
     width: 50px;

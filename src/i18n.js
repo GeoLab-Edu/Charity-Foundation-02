@@ -4,6 +4,11 @@ import { reactI18nextModule } from "react-i18next";
 import translationEN from './lang/en/translation.json';
 import translationKA from './lang/ka/translation.json';
 
+const firstPath = window.location.pathname.split('/')[1];
+let setLang = '';
+const language = localStorage.getItem('lang');
+language ? setLang = language : setLang = firstPath;
+
 // the translations
 const resources = {
     en: {
@@ -14,11 +19,12 @@ const resources = {
     }
 };
 
+
 i18n
     .use(reactI18nextModule) // passes i18n down to react-i18next
     .init({
         resources,
-        lng: "ka",
+        lng: setLang ? setLang : "ka",
 
         //keySeparator: false, // we do not use keys in form messages.welcome
 

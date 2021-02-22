@@ -2,10 +2,10 @@ import {withNamespaces} from "react-i18next";
 import {useParams} from "react-router-dom";
 
 function Profile({ t }) {
-    let { id } = useParams();
+    let { id, info } = useParams();
     return (
         <>
-            <h1> {id} </h1>
+            <h1> {id} : {info}</h1>
         </>
     )
 }

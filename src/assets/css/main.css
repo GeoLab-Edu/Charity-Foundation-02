@@ -15,6 +15,19 @@
     width: 680px;
 }
 
+.found {
+    margin-bottom: 40px;
+}
+
+.found-url {
+    font-size: 40px;
+    color: #000000;
+}
+
+.selected {
+    background: lime;
+}
+
 /* MEDIA */
 @media screen and (max-width: 992px) {
     .main-cover-title {
@@ -22,4 +35,9 @@
         width: 100%;
         font-size: 25px;
     }
+    .found {
+        flex-direction: column;
+        padding: 0 15px;
+    }
+    .found-url {margin-bottom: 10px;}
 }
