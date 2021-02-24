@@ -30,10 +30,12 @@ function Main({ t }) {
                     <Link to="/" className="readmore">{t ('readMore')}<span></span></Link>
                 </div>
             </section>
-            <div className="flex justify-around found">
-                <Link className="found-url underline" to={'/'+language+'/foundation/about'} >{ t ('menu.about') }</Link>
-                <Link className="found-url" to={'/'+language+'/foundation/photos'} >{ t ('menu.photos') }</Link>
-                <Link className="found-url" to={'/'+language+'/foundation/team'} >{ t ('menu.team') }</Link>
+            <div className="container">
+                <div className="flex justify-around found">
+                    <Link className="found-url underline" to={'/'+language+'/foundation/about'} >{ t ('menu.about') }</Link>
+                    <Link className="found-url" to={'/'+language+'/foundation/photos'} >{ t ('menu.photos') }</Link>
+                    <Link className="found-url" to={'/'+language+'/foundation/team'} >{ t ('menu.team') }</Link>
+                </div>
             </div>
             <section className="light">
                 <div className="container">
