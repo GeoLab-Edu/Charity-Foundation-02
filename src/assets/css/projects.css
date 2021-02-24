@@ -1,0 +1,43 @@
+.projects-title {
+    font-size: 40px;
+    margin: 25px 0;
+    font-weight: normal;
+}
+
+.prj {position: relative; padding-bottom: 40px}
+
+.prj-title {
+    font-size: 25px;
+}
+
+.prj-h3 {
+    font-size: 22px;
+    font-weight: normal;
+    margin-bottom: 40px;
+}
+
+.prj-h5 {
+    font-size: 14px;
+    font-weight: 100;
+    margin: 10px 0;
+}
+
+.prj-btn {
+    position: absolute;
+    top: calc(100% + 20px);
+    right: 15px;
+    transform: translateY(-50%);
+    transition: 300ms;
+}
+.prj-btn:hover {
+    min-height: 54px;
+    min-width: 220px;
+}
+
+.prj-mb {
+    margin-bottom: 60px;
+}
+
+@media screen and (max-width: 992px) {
+
+}
