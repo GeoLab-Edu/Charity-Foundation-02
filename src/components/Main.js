@@ -43,7 +43,7 @@ function Main({ t }) {
                     <p className="section-text">
                         {t ('main.projectsContent')}
                     </p>
-                    <Link to="/" className="readmore">{t ('readMore')}<span></span></Link>
+                    <Link to={'/'+language+'/projects'} className="readmore">{t ('readMore')}<span></span></Link>
                 </div>
             </section>
         </>
