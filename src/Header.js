@@ -17,6 +17,8 @@ function Header({ t }) {
         localStorage.setItem("lang",lng);
     }
 
+    console.log(language);
+
     const handleToggle = () => {
         setActive(!isActive);
     };
@@ -37,7 +39,7 @@ function Header({ t }) {
                                     <NavLink to={'/'+language+'/alexi'} activeClassName="active" className="header-menu-link">{ t ('menu.alex') }</NavLink>
                                     <ul className="submenu">
                                         <li>
-                                            <NavLink to={'/'+language+'/alexi/bio'} >{ t ('menu.bio') }</NavLink>
+                                            <NavLink to={'/'+language+'/alexi/about'} >{ t ('menu.bio') }</NavLink>
                                         </li>
                                         <li>
                                             <NavLink to={'/'+language+'/alexi/photos'} >{ t ('menu.photos') }</NavLink>
@@ -57,7 +59,7 @@ function Header({ t }) {
                                     <NavLink to={'/'+language+'/vakhtang'} activeClassName="active" className="header-menu-link">{ t ('menu.vaxtang') }</NavLink>
                                     <ul className="submenu">
                                         <li>
-                                            <NavLink to={'/'+language+'/vakhtang/bio'} >{ t ('menu.bio') }</NavLink>
+                                            <NavLink to={'/'+language+'/vakhtang/about'} >{ t ('menu.bio') }</NavLink>
                                         </li>
                                         <li>
                                             <NavLink to={'/'+language+'/vakhtang/photos'} >{ t ('menu.photos') }</NavLink>
@@ -96,9 +98,9 @@ function Header({ t }) {
                             </ul>
                         </nav>
                         <div className="header-lang">
-                            <button onClick={() => changeLanguage('en')}>ENG</button>
+                            <button onClick={() => changeLanguage('en')} style={ language=="ka" ? {color: "#C8CACC"} : {}}>ENG</button>
                             /
-                            <button onClick={() => changeLanguage('ka')}>GEO</button>
+                            <button onClick={() => changeLanguage('ka')} style={ language=="en" ? {color: "#C8CACC"} : {}}>GEO</button>
                         </div>
                     </div>
                     <button className={`burger ${isActive ? "active" : ""}`} id="burger" onClick={handleToggle}>

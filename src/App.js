@@ -1,4 +1,4 @@
-import Header from "./Heaader";
+import Header from "./Header";
 import './App.css';
 import {
     BrowserRouter as Router, useParams,

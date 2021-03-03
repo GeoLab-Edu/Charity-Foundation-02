@@ -4,6 +4,11 @@
     width: 100%;
 }
 
+.photos-box {
+    width: 25%;
+    padding: 5px;
+}
+
 
 /* SECTIONS */
 .light {
@@ -91,7 +96,48 @@
     border-radius: 4px;
 }
 /* SIZE */
-.w-50 {width: 50%}
+.w-50 {width: 50%; overflow: hidden}
+
+/* TEAM */
+.team {
+    margin-bottom: 45px;
+}
+
+.team-photo {
+    flex-shrink: 0;
+    margin-right: 13px;
+}
+
+.team-name {
+    font-size: 22px;
+    font-weight: normal;
+    margin-bottom: 25px;
+}
+
+.team-about {
+    font-size: 16px;
+    line-height: 30px;
+}
+
+/* Manuscripts */
+.manu-item {
+    width: 50%;
+    flex-shrink: 0;
+    padding: 10px;
+}
+
+.manu-title {
+    font-size: 24px;
+    font-style: italic;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.manu-info {
+    font-size: 18px;
+    font-style: italic;
+    font-weight: lighter;
+}
 
 /* MEDIA */
 @media screen and (max-width: 992px) {
@@ -103,5 +149,23 @@
     }
     .sm-wrap {
         flex-wrap: wrap;
+    }
+    .photos-box {
+        width: 50%;
+    }
+    .team-photo {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 13px;
+    }
+    .team {
+        flex-direction: column;
+    }
+    .manu {
+        flex-direction: column;
+    }
+    .manu-item {
+        width: 100%;
+        padding: 0;
     }
 }
