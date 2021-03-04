@@ -17,8 +17,6 @@ function Header({ t }) {
         localStorage.setItem("lang",lng);
     }
 
-    console.log(language);
-
     const handleToggle = () => {
         setActive(!isActive);
     };
