@@ -2,19 +2,41 @@
   "alexi": {
     "title": "Alex Machavariani",
     "cover": "https://i.ibb.co/gWK7w2r/alexi.jpg",
-    "bio": {
+    "about": {
       "title": "biography",
-      "content": "Aleksi Machavariani was born in Gori, Georgia. He graduated from the Tbilisi Conservatory in 1936 and remained there for postgraduate studies. He studied composition under Pyotr Ryazanov. Later he joined the faculty, becoming a professor in 1963. He began his artistic career in 1935.\n\nMachavariani produced a number of critically acclaimed plays and ballets, including the ballet \"Othello\" (1957), the operas \"Mat i Sin\" (1945), \"Den moei Rodini\" (1954), the symphony \"Piat monologov\" (1971; it earned the Shota Rustaveli Prize). He also wrote the music to many theatrical productions, including \"Baratashvili\" and \"Legenda o liubvi\". His output includes among other works also a violin concerto (1950), seven symphonies (1947–1992) and six string quartets (the last in 1993).[1]\n\nHe was the artistic director of the Georgian State Symphony Orchestra from 1956 till 1958 and directed the Composers' Union of Georgia from 1962 till 1968.[2]\n\nHis son, Vakhtang Machavariani, is likewise a composer, who also conducts his father's works.\n"
+      "content": [
+        "Aleksi Machavariani was born in Gori, Georgia. He graduated from the Tbilisi Conservatory in 1936 and remained there for postgraduate studies. He studied composition under Pyotr Ryazanov. Later he joined the faculty, becoming a professor in 1963. He began his artistic career in 1935.\n\nMachavariani produced a number of critically acclaimed plays and ballets, including the ballet \"Othello\" (1957), the operas \"Mat i Sin\" (1945), \"Den moei Rodini\" (1954), the symphony \"Piat monologov\" (1971; it earned the Shota Rustaveli Prize). He also wrote the music to many theatrical productions, including \"Baratashvili\" and \"Legenda o liubvi\". His output includes among other works also a violin concerto (1950), seven symphonies (1947–1992) and six string quartets (the last in 1993).[1]\n\nHe was the artistic director of the Georgian State Symphony Orchestra from 1956 till 1958 and directed the Composers' Union of Georgia from 1962 till 1968.[2]\n\nHis son, Vakhtang Machavariani, is likewise a composer, who also conducts his father's works.\n",
+        "Aleksi Machavariani was born in Gori, Georgia. He graduated from the Tbilisi Conservatory in 1936 and remained there for postgraduate studies. He studied composition under Pyotr Ryazanov. Later he joined the faculty, becoming a professor in 1963. He began his artistic career in 1935.\n\nMachavariani produced a number of critically acclaimed plays and ballets, including the ballet \"Othello\" (1957), the operas \"Mat i Sin\" (1945), \"Den moei Rodini\" (1954), the symphony \"Piat monologov\" (1971; it earned the Shota Rustaveli Prize). He also wrote the music to many theatrical productions, including \"Baratashvili\" and \"Legenda o liubvi\". His output includes among other works also a violin concerto (1950), seven symphonies (1947–1992) and six string quartets (the last in 1993).[1]\n\nHe was the artistic director of the Georgian State Symphony Orchestra from 1956 till 1958 and directed the Composers' Union of Georgia from 1962 till 1968.[2]\n\nHis son, Vakhtang Machavariani, is likewise a composer, who also conducts his father's works.\n",
+        "Aleksi Machavariani was born in Gori, Georgia. He graduated from the Tbilisi Conservatory in 1936 and remained there for postgraduate studies. He studied composition under Pyotr Ryazanov. Later he joined the faculty, becoming a professor in 1963. He began his artistic career in 1935.\n\nMachavariani produced a number of critically acclaimed plays and ballets, including the ballet \"Othello\" (1957), the operas \"Mat i Sin\" (1945), \"Den moei Rodini\" (1954), the symphony \"Piat monologov\" (1971; it earned the Shota Rustaveli Prize). He also wrote the music to many theatrical productions, including \"Baratashvili\" and \"Legenda o liubvi\". His output includes among other works also a violin concerto (1950), seven symphonies (1947–1992) and six string quartets (the last in 1993).[1]\n\nHe was the artistic director of the Georgian State Symphony Orchestra from 1956 till 1958 and directed the Composers' Union of Georgia from 1962 till 1968.[2]\n\nHis son, Vakhtang Machavariani, is likewise a composer, who also conducts his father's works.\n"
+      ]
     },
     "photos": [
-      "https://i.imgur.com/B74Bhde.jpg",
-      "https://i.imgur.com/xu4eRU3.jpg",
-      "https://i.imgur.com/nboORYp.jpg",
-      "https://i.imgur.com/c7ILyyn.jpg",
-      "https://i.imgur.com/2Flp1dD.jpg",
-      "https://i.imgur.com/Qdc8rgU.jpg",
-      "https://i.imgur.com/gJ7iGHz.jpg",
-      "https://i.imgur.com/uTtjH1n.jpg"
+      {
+        "title": "Portreits",
+        "images": [
+          "https://i.imgur.com/B74Bhde.jpg",
+          "https://i.imgur.com/xu4eRU3.jpg",
+          "https://i.imgur.com/nboORYp.jpg",
+          "https://i.imgur.com/c7ILyyn.jpg",
+          "https://i.imgur.com/2Flp1dD.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/gJ7iGHz.jpg",
+          "https://i.imgur.com/uTtjH1n.jpg"
+        ]
+      },
+      {
+        "title": "Concertos",
+        "images": [
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg",
+          "https://i.imgur.com/Qdc8rgU.jpg"
+        ]
+      }
     ],
     "manuscripts": [
       {
@@ -54,31 +76,59 @@
         "photo": "https://i.imgur.com/TuXvY3P.jpg"
       }
     ],
-    "press": [
-      "1.)   Brilliant music, brilliant performance… it’s a great success… again I want to underline the music of Alexi Matchavariani, which is talented and perfectly orchestrated.\n            D. Shostakovich. “Zaria Vostoka”, 25-03-1958.\n\n2.)   …”Othello” and Alexi Matchavariani’s score is a stunning dramatic pulse – sinuous, barbed, bombastic and tender in turn. …it’s Shakespeare with electricity.\n            By Howard Thomson. The New York Times. Monday. May 4, 1964.\n\n3.)    A. Matchavariani’s violin concerto is beautiful – it contains all the passion, the poetry and deep spirituality… Added to the lyrical quality of the music there is a robust intellectual approach – all in all, a most memorable piece which any violinist would have great pleasure in interpreting.\n            Sir Yehudi Menuhin. London. 20-06-1985.\n\n4.)    Alexei Davidovich Matchavariani in a author of the excellent violin concerto.\n David Oistrach. 27-02-1952. On the day of the performance of\n A. Matchavariani violin concerto by D. Oistrach.",
-      "1.)   Brilliant music, brilliant performance… it’s a great success… again I want to underline the music of Alexi Matchavariani, which is talented and perfectly orchestrated.\n            D. Shostakovich. “Zaria Vostoka”, 25-03-1958.\n\n2.)   …”Othello” and Alexi Matchavariani’s score is a stunning dramatic pulse – sinuous, barbed, bombastic and tender in turn. …it’s Shakespeare with electricity.\n            By Howard Thomson. The New York Times. Monday. May 4, 1964.\n\n3.)    A. Matchavariani’s violin concerto is beautiful – it contains all the passion, the poetry and deep spirituality… Added to the lyrical quality of the music there is a robust intellectual approach – all in all, a most memorable piece which any violinist would have great pleasure in interpreting.\n            Sir Yehudi Menuhin. London. 20-06-1985.\n\n4.)    Alexei Davidovich Matchavariani in a author of the excellent violin concerto.\n David Oistrach. 27-02-1952. On the day of the performance of\n A. Matchavariani violin concerto by D. Oistrach."
-    ],
-    "media": [
-      "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n",
-      "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n"
-    ]
+    "press": {
+      "title": "Press",
+      "content": [
+        "1.)   Brilliant music, brilliant performance… it’s a great success… again I want to underline the music of Alexi Matchavariani, which is talented and perfectly orchestrated.\n            D. Shostakovich. “Zaria Vostoka”, 25-03-1958.\n\n2.)   …”Othello” and Alexi Matchavariani’s score is a stunning dramatic pulse – sinuous, barbed, bombastic and tender in turn. …it’s Shakespeare with electricity.\n            By Howard Thomson. The New York Times. Monday. May 4, 1964.\n\n3.)    A. Matchavariani’s violin concerto is beautiful – it contains all the passion, the poetry and deep spirituality… Added to the lyrical quality of the music there is a robust intellectual approach – all in all, a most memorable piece which any violinist would have great pleasure in interpreting.\n            Sir Yehudi Menuhin. London. 20-06-1985.\n\n4.)    Alexei Davidovich Matchavariani in a author of the excellent violin concerto.\n David Oistrach. 27-02-1952. On the day of the performance of\n A. Matchavariani violin concerto by D. Oistrach.",
+        "1.)   Brilliant music, brilliant performance… it’s a great success… again I want to underline the music of Alexi Matchavariani, which is talented and perfectly orchestrated.\n            D. Shostakovich. “Zaria Vostoka”, 25-03-1958.\n\n2.)   …”Othello” and Alexi Matchavariani’s score is a stunning dramatic pulse – sinuous, barbed, bombastic and tender in turn. …it’s Shakespeare with electricity.\n            By Howard Thomson. The New York Times. Monday. May 4, 1964.\n\n3.)    A. Matchavariani’s violin concerto is beautiful – it contains all the passion, the poetry and deep spirituality… Added to the lyrical quality of the music there is a robust intellectual approach – all in all, a most memorable piece which any violinist would have great pleasure in interpreting.\n            Sir Yehudi Menuhin. London. 20-06-1985.\n\n4.)    Alexei Davidovich Matchavariani in a author of the excellent violin concerto.\n David Oistrach. 27-02-1952. On the day of the performance of\n A. Matchavariani violin concerto by D. Oistrach."
+      ]
+    },
+    "media":{
+      "title": "AUDIO & VIDEO SAMPLES",
+      "content":[
+        "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n",
+        "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n"
+      ]
+    }
   },
   "vakhtang": {
     "title": "Vakhtang Machavariani",
     "cover": "https://i.ibb.co/Kx4GQcQ/vakhtang.jpg",
-    "bio": {
+    "about": {
       "title": "biography",
-      "content": "Associated with great orchestras, such as Philharmonia Orchestra London, Royal Philharmonic Orchestra London, Orchestre National de France, Belgian National Orchestra, Staatsorchester Stuttgart, St. Petersburg Philharmonic Orchestra, Moscow Philharmonic Orchestra, Large Radio & TV Symphony Orchestra of USSR, Symphony Orchestra of Ministry of Culture of USSR, Mariinsky Theatre Symphony Orchestra St. Petersburg, Presidential Symphony Orchestra Ankara and many other prominent orchestras.\n\nVakhtang Matchavariani received his musical education at Tbilisi Central Music School and the Tbilisi State Conservatory, initially as a pianist. Later he studied conducting at Tbilisi State Conservatory with Odisey Dimitiriadi, with Gennadi Rozhdestvensky at the Moscow State Conservatory, and finally with Karl Österreicher, at the Vienna Music Academy. During his studies in Viena, Maestro Lorin Maazel wrote about him: \" ...An audition was arranged where Mr. Matchavariani conducted the Vienna Philharmonic Orchestra. From what I could ascertain in the short time given Mr. Matchavariani, he has a conducting gift and he showed solid musicianship.\"\n"
+      "content": [
+        "Associated with great orchestras, such as Philharmonia Orchestra London, Royal Philharmonic Orchestra London, Orchestre National de France, Belgian National Orchestra, Staatsorchester Stuttgart, St. Petersburg Philharmonic Orchestra, Moscow Philharmonic Orchestra, Large Radio & TV Symphony Orchestra of USSR, Symphony Orchestra of Ministry of Culture of USSR, Mariinsky Theatre Symphony Orchestra St. Petersburg, Presidential Symphony Orchestra Ankara and many other prominent orchestras.\n\nVakhtang Matchavariani received his musical education at Tbilisi Central Music School and the Tbilisi State Conservatory, initially as a pianist. Later he studied conducting at Tbilisi State Conservatory with Odisey Dimitiriadi, with Gennadi Rozhdestvensky at the Moscow State Conservatory, and finally with Karl Österreicher, at the Vienna Music Academy. During his studies in Viena, Maestro Lorin Maazel wrote about him: \" ...An audition was arranged where Mr. Matchavariani conducted the Vienna Philharmonic Orchestra. From what I could ascertain in the short time given Mr. Matchavariani, he has a conducting gift and he showed solid musicianship.\"\n",
+        "Associated with great orchestras, such as Philharmonia Orchestra London, Royal Philharmonic Orchestra London, Orchestre National de France, Belgian National Orchestra, Staatsorchester Stuttgart, St. Petersburg Philharmonic Orchestra, Moscow Philharmonic Orchestra, Large Radio & TV Symphony Orchestra of USSR, Symphony Orchestra of Ministry of Culture of USSR, Mariinsky Theatre Symphony Orchestra St. Petersburg, Presidential Symphony Orchestra Ankara and many other prominent orchestras.\n\nVakhtang Matchavariani received his musical education at Tbilisi Central Music School and the Tbilisi State Conservatory, initially as a pianist. Later he studied conducting at Tbilisi State Conservatory with Odisey Dimitiriadi, with Gennadi Rozhdestvensky at the Moscow State Conservatory, and finally with Karl Österreicher, at the Vienna Music Academy. During his studies in Viena, Maestro Lorin Maazel wrote about him: \" ...An audition was arranged where Mr. Matchavariani conducted the Vienna Philharmonic Orchestra. From what I could ascertain in the short time given Mr. Matchavariani, he has a conducting gift and he showed solid musicianship.\"\n",
+        "Associated with great orchestras, such as Philharmonia Orchestra London, Royal Philharmonic Orchestra London, Orchestre National de France, Belgian National Orchestra, Staatsorchester Stuttgart, St. Petersburg Philharmonic Orchestra, Moscow Philharmonic Orchestra, Large Radio & TV Symphony Orchestra of USSR, Symphony Orchestra of Ministry of Culture of USSR, Mariinsky Theatre Symphony Orchestra St. Petersburg, Presidential Symphony Orchestra Ankara and many other prominent orchestras.\n\nVakhtang Matchavariani received his musical education at Tbilisi Central Music School and the Tbilisi State Conservatory, initially as a pianist. Later he studied conducting at Tbilisi State Conservatory with Odisey Dimitiriadi, with Gennadi Rozhdestvensky at the Moscow State Conservatory, and finally with Karl Österreicher, at the Vienna Music Academy. During his studies in Viena, Maestro Lorin Maazel wrote about him: \" ...An audition was arranged where Mr. Matchavariani conducted the Vienna Philharmonic Orchestra. From what I could ascertain in the short time given Mr. Matchavariani, he has a conducting gift and he showed solid musicianship.\"\n"
+      ]
     },
     "photos": [
-      "https://i.imgur.com/XO1oCXl.jpg",
-      "https://i.imgur.com/2bNoO2l.jpg",
-      "https://i.imgur.com/YphXrzw.jpg",
-      "https://i.imgur.com/Hb257De.jpg",
-      "https://i.imgur.com/LpaWqhx.jpg",
-      "https://i.imgur.com/EPD9oAo.jpg",
-      "https://i.imgur.com/I9zKe5y.jpg",
-      "https://i.imgur.com/3z45JrV.jpg"
+      {
+        "title": "Portreits",
+        "images": [
+          "https://i.imgur.com/XO1oCXl.jpg",
+          "https://i.imgur.com/2bNoO2l.jpg",
+          "https://i.imgur.com/YphXrzw.jpg",
+          "https://i.imgur.com/Hb257De.jpg",
+          "https://i.imgur.com/LpaWqhx.jpg",
+          "https://i.imgur.com/EPD9oAo.jpg",
+          "https://i.imgur.com/I9zKe5y.jpg",
+          "https://i.imgur.com/3z45JrV.jpg"
+        ]
+      },
+      {
+        "title": "Concertos",
+        "images": [
+          "https://i.imgur.com/VW0O1KF.jpg",
+          "https://i.imgur.com/D3Qq0LB.jpg",
+          "https://i.imgur.com/2rQmjFG.jpg",
+          "https://i.imgur.com/maHurck.jpg",
+          "https://i.imgur.com/1igk43Z.jpg",
+          "https://i.imgur.com/ver8pSi.jpg",
+          "https://i.imgur.com/CeMiOd1.jpg",
+          "https://i.imgur.com/fH78NdX.jpg"
+        ]
+      }
     ],
     "manuscripts": [
       {
@@ -118,31 +168,59 @@
         "photo": "https://i.imgur.com/TuXvY3P.jpg"
       }
     ],
-    "press": [
-      "1)   …And the Scottish Opera Orchestra and Chorus, under the superbly incisive direction of Vakhtang Matchavariani, played and sang like heroes.--- Under Matchavariani, the Scottish Opera Orchestra produced some of the finest Orchestral Magic I ever heard from this band. The Glasgow Herald. U.K. MICHAEL TUMELTY.\n\n2)   …These works were magnificently conducted by Vakhtang Matchavariani and I have never heard the Scottish Opera Orchestra playing so brilliantly. The Spectator. U.K. R. MILNES.\n\n3)   …Both were done more than justice under the devil-driven direction of Vakhtang Matchavariani… The performance was gripping from first to last; the central C major climax was an unashamed: COUP DE THEATHER in which music, light and movement combined to knock the audience senseless.\nOpera Magazine. R. MILNES.\n\n4)    V. Matchavariani…realized the truly lucid and evocative nature of the score. Daily Telegraph U.K. K. WALTON.\n5)   …Conductor Vakhtang Matchavariani… drew atmospheric performances. Sunday Times. U.K. P. DRIVER.",
-      "1)   …And the Scottish Opera Orchestra and Chorus, under the superbly incisive direction of Vakhtang Matchavariani, played and sang like heroes.--- Under Matchavariani, the Scottish Opera Orchestra produced some of the finest Orchestral Magic I ever heard from this band. The Glasgow Herald. U.K. MICHAEL TUMELTY.\n\n2)   …These works were magnificently conducted by Vakhtang Matchavariani and I have never heard the Scottish Opera Orchestra playing so brilliantly. The Spectator. U.K. R. MILNES.\n\n3)   …Both were done more than justice under the devil-driven direction of Vakhtang Matchavariani… The performance was gripping from first to last; the central C major climax was an unashamed: COUP DE THEATHER in which music, light and movement combined to knock the audience senseless.\nOpera Magazine. R. MILNES.\n\n4)    V. Matchavariani…realized the truly lucid and evocative nature of the score. Daily Telegraph U.K. K. WALTON.\n5)   …Conductor Vakhtang Matchavariani… drew atmospheric performances. Sunday Times. U.K. P. DRIVER."
-    ],
-    "media": [
-      "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.",
-      "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n"
-    ]
+    "press":{
+      "title": "Presse",
+      "content":[
+        "1)   …And the Scottish Opera Orchestra and Chorus, under the superbly incisive direction of Vakhtang Matchavariani, played and sang like heroes.--- Under Matchavariani, the Scottish Opera Orchestra produced some of the finest Orchestral Magic I ever heard from this band. The Glasgow Herald. U.K. MICHAEL TUMELTY.\n\n2)   …These works were magnificently conducted by Vakhtang Matchavariani and I have never heard the Scottish Opera Orchestra playing so brilliantly. The Spectator. U.K. R. MILNES.\n\n3)   …Both were done more than justice under the devil-driven direction of Vakhtang Matchavariani… The performance was gripping from first to last; the central C major climax was an unashamed: COUP DE THEATHER in which music, light and movement combined to knock the audience senseless.\nOpera Magazine. R. MILNES.\n\n4)    V. Matchavariani…realized the truly lucid and evocative nature of the score. Daily Telegraph U.K. K. WALTON.\n5)   …Conductor Vakhtang Matchavariani… drew atmospheric performances. Sunday Times. U.K. P. DRIVER.",
+        "1)   …And the Scottish Opera Orchestra and Chorus, under the superbly incisive direction of Vakhtang Matchavariani, played and sang like heroes.--- Under Matchavariani, the Scottish Opera Orchestra produced some of the finest Orchestral Magic I ever heard from this band. The Glasgow Herald. U.K. MICHAEL TUMELTY.\n\n2)   …These works were magnificently conducted by Vakhtang Matchavariani and I have never heard the Scottish Opera Orchestra playing so brilliantly. The Spectator. U.K. R. MILNES.\n\n3)   …Both were done more than justice under the devil-driven direction of Vakhtang Matchavariani… The performance was gripping from first to last; the central C major climax was an unashamed: COUP DE THEATHER in which music, light and movement combined to knock the audience senseless.\nOpera Magazine. R. MILNES.\n\n4)    V. Matchavariani…realized the truly lucid and evocative nature of the score. Daily Telegraph U.K. K. WALTON.\n5)   …Conductor Vakhtang Matchavariani… drew atmospheric performances. Sunday Times. U.K. P. DRIVER."
+      ]
+    },
+    "media":{
+      "title": "AUDIO & VIDEO SAMPLES",
+      "content": [
+        "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.",
+        "Concert Recording.\nR. Wagner: Overture to opera “Rienzi”.  \nM. Ravel: “Daphnis & Chloe”, 2-d suite.  \nI. Stravinsky: “Le Sacre du Printemps”.  \nVakhtang Matchavariani and the “Moscow Festival Orchestra” at the big concert hall of the Tchaikovsky state conservatory in Moscow .\nVakhtang Matchavariani Principal Conductor & General Music Director of M.F.O.\n\nJazz Recording (at home)\nMy funny Valentine  \nSome day my prince will come  \nWho can I turn to \n\nMelodia Label\nAlexi Matchavariani. Ballet “The Knight in the tiger skin”. Grand Suite. Prologue, Kadji, Fiest, Freske, Quartet, Kadji, Magic, War, Finale – epilogue.\nSymphony orchestra of ministry of culture of USSR .\nConductor: Vakhtang Matchavariani.\n“Melodia” C-10 20403 003. The april factory - Moscow , recorded in 1982.\n"
+      ]
+    }
   },
   "foundation": {
     "title": "Foundation",
     "cover": "https://i.ibb.co/zrbkCWq/foundation.jpg",
-    "bio": {
+    "about": {
       "title": "About us",
-      "content": "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements.\n\nChart of a foundation\nLegal requirements followed for establishment\nPurpose of the foundation\nEconomic activity\nSupervision and management provisions\nAccountability and auditing provisions\n"
+      "content": [
+        "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements.\n\nChart of a foundation\nLegal requirements followed for establishment\nPurpose of the foundation\nEconomic activity\nSupervision and management provisions\nAccountability and auditing provisions\n",
+        "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements.\n\nChart of a foundation\nLegal requirements followed for establishment\nPurpose of the foundation\nEconomic activity\nSupervision and management provisions\nAccountability and auditing provisions\n",
+        "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements.\n\nChart of a foundation\nLegal requirements followed for establishment\nPurpose of the foundation\nEconomic activity\nSupervision and management provisions\nAccountability and auditing provisions\n"
+      ]
     },
     "photos": [
-      "https://i.imgur.com/PRTWMfW.jpg",
-      "https://i.imgur.com/PHTGPZ4.jpg",
-      "https://i.imgur.com/2smHD6e.jpg",
-      "https://i.imgur.com/uSdb2IC.jpg",
-      "https://i.imgur.com/AVC8tT7.jpg",
-      "https://i.imgur.com/IhqJhkn.jpg",
-      "https://i.imgur.com/u81SgJ3.jpg",
-      "https://i.imgur.com/Biw02Ki.jpg"
+      {
+        "title": "Portreits",
+        "images": [
+          "https://i.imgur.com/PRTWMfW.jpg",
+          "https://i.imgur.com/PHTGPZ4.jpg",
+          "https://i.imgur.com/2smHD6e.jpg",
+          "https://i.imgur.com/uSdb2IC.jpg",
+          "https://i.imgur.com/AVC8tT7.jpg",
+          "https://i.imgur.com/IhqJhkn.jpg",
+          "https://i.imgur.com/u81SgJ3.jpg",
+          "https://i.imgur.com/Biw02Ki.jpg"
+        ]
+      },
+      {
+        "title": "Concertos",
+        "images": [
+          "https://i.imgur.com/PRTWMfW.jpg",
+          "https://i.imgur.com/PHTGPZ4.jpg",
+          "https://i.imgur.com/2smHD6e.jpg",
+          "https://i.imgur.com/uSdb2IC.jpg",
+          "https://i.imgur.com/AVC8tT7.jpg",
+          "https://i.imgur.com/IhqJhkn.jpg",
+          "https://i.imgur.com/u81SgJ3.jpg",
+          "https://i.imgur.com/Biw02Ki.jpg"
+        ]
+      }
     ],
     "team": [
       {
@@ -162,6 +240,31 @@
         "person": "Name Lastname",
         "photo": "https://i.imgur.com/Yi9Kfv1.jpg",
         "about": "A Biography, Or Simply Bio, Is A Detailed Description Of A Person's Life. It Involves More Than Just The Basic Facts Like Education, Work, Relationships, And Death; It Portrays A Person's Experience Of These Life Events. Unlike A Profile Or Curriculum Vitae (Résumé), A Biography Presents A Subject's Life Story, Highlighting Various Aspects Of His Or Her Life, Including Intimate Details Of Experience, And May Include An Analysis Of The Subject's Personality"
+      }
+    ],
+    "mission": {
+      "title": "Our Mission",
+      "content": [
+        "Support of young Composers and performers of exceptional talent. Establishment of the International Composers Competition of Alexi Matchavariani.\n Popularisation of Georgian Music in Georgia and Abroad. Organisation of professional musical events and their support. Establishment of the International Youth Symphony Orchestra.\n Establishment of the musical Festival. Restoration of damaged musical Scores of Georgian Composers. Restoration of Audio & Video samples of old Georgian musical masterpieces. Revival of forgotten Georgian musical masterpieces. Presentation of unknown musical masterpieces in Georgia. Connection of Georgian and foreign young musicians via Music.",
+        "Support of young Composers and performers of exceptional talent. Establishment of the International Composers Competition of Alexi Matchavariani.\n Popularisation of Georgian Music in Georgia and Abroad. Organisation of professional musical events and their support. Establishment of the International Youth Symphony Orchestra.\n Establishment of the musical Festival. Restoration of damaged musical Scores of Georgian Composers. Restoration of Audio & Video samples of old Georgian musical masterpieces. Revival of forgotten Georgian musical masterpieces. Presentation of unknown musical masterpieces in Georgia. Connection of Georgian and foreign young musicians via Music.",
+        "Support of young Composers and performers of exceptional talent. Establishment of the International Composers Competition of Alexi Matchavariani.\n Popularisation of Georgian Music in Georgia and Abroad. Organisation of professional musical events and their support. Establishment of the International Youth Symphony Orchestra.\n Establishment of the musical Festival. Restoration of damaged musical Scores of Georgian Composers. Restoration of Audio & Video samples of old Georgian musical masterpieces. Revival of forgotten Georgian musical masterpieces. Presentation of unknown musical masterpieces in Georgia. Connection of Georgian and foreign young musicians via Music."
+      ]
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "content": [
+      {
+        "title": "Concourse  Name",
+        "h5":   "Contemporary business and science",
+        "h3":   "Tasks To Be Executed Over A Fixed Period ",
+        "content": "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements."
+      },
+      {
+        "title": "Concourse  Name",
+        "h5":   "Contemporary business and science",
+        "h3":   "Tasks To Be Executed Over A Fixed Period ",
+        "content": "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements."
       }
     ]
   }

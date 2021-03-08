@@ -75,7 +75,7 @@ function Profile({ t }) {
                     <div className="container">
                         <h2 className="section-title">{t ('menu.press')}</h2>
                         <p className="section-text">
-                            {data[id].press[0]}
+                            {data[id].press.content[0]}
                         </p>
                         <Link to={'/' + language + '/' + id + '/press' } className="readmore">{t ('readMore')}<span></span></Link>
                     </div>
@@ -91,7 +91,7 @@ function Profile({ t }) {
                     <div className="container">
                         <h2 className="section-title">{t ('menu.media')}</h2>
                         <p className="section-text">
-                            {data[id].media[0]}
+                            {data[id].media.content[0]}
                         </p>
                         <Link to={'/' + language + '/' + id + '/media' } className="readmore">{t ('readMore')}<span></span></Link>
                     </div>
@@ -113,8 +113,8 @@ function Profile({ t }) {
             </div>
             <section className="light">
                 <div className="container">
-                    <h2 className="section-title">{data[id].bio.title}</h2>
-                    <p className="section-text">{data[id].bio.content}</p>
+                    <h2 className="section-title">{data[id].about.title}</h2>
+                    <p className="section-text">{data[id].about.content[0]}</p>
                     <Link to={'/' + language + '/' + id + '/about' } className="readmore">{t ('readMore')}<span></span></Link>
                 </div>
             </section>
@@ -122,7 +122,7 @@ function Profile({ t }) {
                 <div className="container">
                     <h2 className="section-title">{t ("photos")}</h2>
                     <div className="flex flex-wrap">
-                        { data[id].photos.map((item)=>
+                        { data[id].photos[0].images.map((item)=>
                             <div className="photos-box" key={item}>
                                 <img className="img-full" src={item} alt={data[id].title} />
                             </div>

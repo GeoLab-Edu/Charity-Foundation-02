@@ -88,7 +88,7 @@ function Header({ t }) {
                                     </ul>
                                 </li>
                                 <li className="header-menu-item">
-                                    <NavLink to={'/'+language+'/projects'} activeClassName="active" className="header-menu-link">{ t ('menu.projects') }</NavLink>
+                                    <NavLink to={'/'+language+'/projects/all'} activeClassName="active" className="header-menu-link">{ t ('menu.projects') }</NavLink>
                                 </li>
                                 <li className="header-menu-item">
                                     <NavLink to={'/'+language+'/contact'} activeClassName="active" className="header-menu-link">{ t ('menu.contact') }</NavLink>

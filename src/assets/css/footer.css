@@ -17,6 +17,10 @@
     background: #1a1a1a;
 }
 
+.footer-item-image {
+    cursor: pointer;
+}
+
 .footer-item.social {
     background: #333333;
 }

@@ -30,15 +30,6 @@
     "projects": "Projects",
     "projectsContent": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.\nLorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor"
   },
-  "projects": {
-    "title": "Projects",
-    "sample": {
-      "title": "Concourse  Name",
-      "h5":   "Contemporary business and science",
-      "h3":   "Tasks To Be Executed Over A Fixed Period ",
-      "content": "A foundation (also a charitable foundation) is a category of nonprofit organization or charitable trust that typically provides funding and support for other charitable organizations through grants, but may also engage directly in charitable activities. Foundations include public charitable foundations, such as community foundations, and private foundation, which are typically endowed by an individual or family. However, the term \"foundation\" may also be used by organizations that are not involved in public grantmaking.\nLegal entities existing under the status of \"foundations\" have a wide diversity of structures and purposes. Nevertheless, there are some common structural elements."
-    }
-  },
   "contact": {
     "name": "Your Name",
     "lastname": "Your Lastname",
