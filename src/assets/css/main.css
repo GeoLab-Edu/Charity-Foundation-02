@@ -15,6 +15,17 @@
     width: 680px;
 }
 
+.main-cover-title:after {
+    content: '';
+    display: block;
+    width: 5000px;
+    height: 1px;
+    background: #ffffff;
+    position: absolute;
+    bottom: -15px;
+    right: 0;
+}
+
 .found {
     margin-bottom: 40px;
 }
@@ -40,4 +51,5 @@
         padding: 0 15px;
     }
     .found-url {margin-bottom: 10px;}
+    .main-cover-title:after {right: 35px;}
 }
